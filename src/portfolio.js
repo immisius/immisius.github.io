@@ -46,12 +46,12 @@ const socialMediaLinks = [
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
-  //   {
-  //     name: "LinkedIn",
-  //     link: "https://www.linkedin.com/in/ashutosh1919/",
-  //     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
-  //     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
-  //   },
+  {
+    name: "LinkedIn",
+    link: "https://www.linkedin.com/in/kosuke-endo-075776266/",
+    fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
+    backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
+  },
   //   {
   //     name: "YouTube",
   //     link: "https://youtube.com/c/DevSense19",
@@ -70,18 +70,18 @@ const socialMediaLinks = [
     fontAwesomeIcon: "fa-twitter", // Reference https://fontawesome.com/icons/twitter?style=brands
     backgroundColor: "#1DA1F2", // Reference https://simpleicons.org/?q=twitter
   },
-  //   {
-  //     name: "Facebook",
-  //     link: "https://www.facebook.com/laymanbrother.19/",
-  //     fontAwesomeIcon: "fa-facebook-f", // Reference https://fontawesome.com/icons/facebook-f?style=brands
-  //     backgroundColor: "#1877F2", // Reference https://simpleicons.org/?q=facebook
-  //   },
-  //   {
-  //     name: "Instagram",
-  //     link: "https://www.instagram.com/layman_brother/",
-  //     fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
-  //     backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
-  //   },
+  {
+    name: "Facebook",
+    link: "https://www.facebook.com/immisius/",
+    fontAwesomeIcon: "fa-facebook-f", // Reference https://fontawesome.com/icons/facebook-f?style=brands
+    backgroundColor: "#1877F2", // Reference https://simpleicons.org/?q=facebook
+  },
+  {
+    name: "Instagram",
+    link: "https://www.instagram.com/immisius/",
+    fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
+    backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
+  },
 ];
 
 const skills = {
