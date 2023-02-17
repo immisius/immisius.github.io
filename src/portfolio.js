@@ -967,7 +967,7 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "me.png",
+    profile_image_path: "center_cropped.png",
     description: "",
   },
   //   blogSection: {
