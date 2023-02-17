@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    revision: "f462c7cd49c992385e43391e40813242",
+    revision: "c9de4e652844cef1e6ce597ec9b063f3",
     url: "/index.html",
   },
   {
-    revision: "602ce825206a3417a58f",
+    revision: "f0c2bf27800679f30e1f",
     url: "/static/css/main.be8f9042.chunk.css",
   },
   {
-    revision: "6846a330a174cf257891",
-    url: "/static/js/2.caed8faa.chunk.js",
+    revision: "948926cf5e51215707e7",
+    url: "/static/js/2.efcf3099.chunk.js",
   },
   {
-    revision: "602ce825206a3417a58f",
-    url: "/static/js/main.7df84b40.chunk.js",
+    revision: "f0c2bf27800679f30e1f",
+    url: "/static/js/main.9d833058.chunk.js",
   },
   {
     revision: "6138eaf4a6c67cbf898e",
@@ -22,6 +22,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     revision: "21f233e19402cc4a66866a7f31191f0d",
     url: "/static/media/Agustina.21f233e1.woff",
+  },
+  {
+    revision: "4a432cb4d64091475fd4f615bba09df7",
+    url: "/static/media/EnglishWordbook.4a432cb4.png",
   },
   {
     revision: "4457817ac2b9993c65e81aa05828fe9c",

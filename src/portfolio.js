@@ -7,7 +7,7 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Kosuke's Portfolio",
+  title: "immisius's Portfolio",
   description:
     "データサイエンスの力を用いて世界をよりよくすることに興味があります。人工知能、特にニューラルネットワークを用いた問題解決に注力しています。計算機との出会いは中学校の時に熱中したオンラインゲームです。E-sportsという言葉もなく、ゲーム配信の価値が模索されている中、ローエンドな計算機でオンラインゲーム、またそこでの仲間とのコミュニケーションを楽しみました。その経験から東京工業大学情報理工学院に入学し、計算機の理解を深めました。機械の「知能」を機械の「言葉」に感じ、自然言語処理を専門とする研究室に所属しています。言葉を理解して人の手伝いができるような機械に魅力を感じています。",
   og: {
@@ -19,9 +19,9 @@ const seo = {
 
 //Home Page
 const greeting = {
-  title: "Kosuke Endo",
+  title: "遠藤 洸亮",
   logo_name: "KosukeEndo",
-  nickname: "immisius",
+  nickname: " Kosuke Endo, immisius",
   subTitle:
     "データサイエンスの力を用いて世界をよりよくすることに興味があります。人工知能、特にニューラルネットワークを用いた問題解決に注力しています。計算機との出会いは中学校の時に熱中したオンラインゲームです。E-sportsという言葉もなく、ゲーム配信の価値が模索されている中、ローエンドな計算機でオンラインゲーム、またそこでの仲間とのコミュニケーションを楽しみました。その経験から東京工業大学情報理工学院に入学し、計算機の理解を深めました。機械の「知能」を機械の「言葉」に感じ、自然言語処理を専門とする研究室に所属しています。言葉を理解して人の手伝いができるような機械に魅力を感じています。",
   resumeLink:
@@ -788,7 +788,7 @@ const projects = {
       logo_path: "grade2pdf.png",
       certificate_link: "https://github.com/immisius/Grades2pdfonTitech",
       // alt_name: "AtCoder",
-      color_code: "#FFFF70",
+      color_code: "#0e6ba8",
     },
     {
       title: "PrivateOrPublic??",
@@ -797,25 +797,25 @@ const projects = {
       logo_path: "PrivateOrPublic.png",
       certificate_link: "https://github.com/immisius/PrivateOrPublic",
       // alt_name: "Kgle",
-      color_code: "#0000FF",
+      color_code: "#0e6ba8",
     },
     {
-      title: "Signate",
-      //   subtitle: "- TOEIC",
-      logo_path: "signate.png",
-      certificate_link: "https://signate.jp/users/110232",
-      alt_name: "Signate",
-      color_code: "#FFFFFF",
+      title: "EnglishWordbook",
+      subtitle: "CSV出力できる英単語帳",
+      logo_path: "EnglishWordbook.png",
+      certificate_link: "https://github.com/immisius/EnglishWordbook",
+      //   alt_name: "Signate",
+      color_code: "#0e6ba8",
     },
-    {
-      title: "Nishika",
-      //   subtitle: "- TOEIC",
-      logo_path: "nishika.jpg",
-      certificate_link:
-        "https://competition.nishika.com/users/YZrBgeo5KRVjqJmx",
-      alt_name: "Nishika",
-      color_code: "#7F8DAA",
-    },
+    // {
+    //   title: "Nishika",
+    //   //   subtitle: "- TOEIC",
+    //   logo_path: "nishika.jpg",
+    //   certificate_link:
+    //     "https://competition.nishika.com/users/YZrBgeo5KRVjqJmx",
+    //   alt_name: "Nishika",
+    //   color_code: "#7F8DAA",
+    // },
     // {
     //   title: "Deep Learning",
     //   subtitle: "- Andrew Ng",
