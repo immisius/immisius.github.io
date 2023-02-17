@@ -11,63 +11,64 @@
         "./ardija.gif": 123,
         "./atcoder.png": 124,
         "./blogs_image.svg": 125,
-        "./cloud_infrastructure.svg": 126,
-        "./codeInLogo.png": 127,
-        "./contactMail.png": 128,
-        "./coursera_logo.png": 129,
-        "./data_science.svg": 130,
-        "./deeplearning_ai_logo.png": 131,
-        "./delhivery_logo.png": 132,
-        "./developerActivity.svg": 133,
-        "./dsc_logo.png": 134,
-        "./education.svg": 135,
-        "./eisai.jpg": 136,
-        "./experience.svg": 137,
-        "./f1.png": 138,
-        "./feelingProud.svg": 139,
-        "./freecopy_logo.png": 140,
-        "./fullstack.svg": 141,
-        "./gcp_logo.png": 142,
-        "./github_logo.png": 143,
-        "./googleAssistant.jpg": 144,
-        "./googleAssistant.svg": 145,
-        "./google_logo.png": 146,
-        "./grade2pdf.pdf": 147,
-        "./grade2pdf.png": 148,
-        "./ibm_logo.png": 149,
-        "./iiitk_logo.png": 150,
-        "./intel_logo.jpg": 151,
-        "./ipdefine.avif": 152,
-        "./iu_logo.png": 153,
-        "./jsFramework.svg": 154,
-        "./kaggle.svg": 155,
-        "./kateikyousi.svg": 156,
-        "./legato_logo.png": 157,
-        "./manOnTable.svg": 158,
-        "./me.png": 159,
-        "./microsoft_logo.png": 160,
-        "./mozilla_logo.png": 161,
-        "./muffito_logo.png": 162,
-        "./nextuLogo.jpg": 163,
-        "./nishika.jpg": 164,
-        "./no-image.png": 165,
-        "./nptel_logo.png": 166,
-        "./portfolio.gif": 167,
-        "./programmer.svg": 168,
-        "./projects_image.svg": 169,
-        "./pwa.png": 170,
-        "./saayaHealthLogo.png": 171,
-        "./signate.png": 172,
-        "./signate.svg": 173,
-        "./stanford_logo.png": 174,
-        "./talksCardBack.svg": 175,
-        "./talksCardBackAlt.svg": 176,
-        "./tiktok_logo.png": 177,
-        "./toiec.png": 178,
-        "./tokyotech.jpeg": 179,
-        "./toudai.jpg": 180,
-        "./ui_ux_design.svg": 181,
-        "./wave.jpeg": 182,
+        "./center_cropped.png": 126,
+        "./cloud_infrastructure.svg": 127,
+        "./codeInLogo.png": 128,
+        "./contactMail.png": 129,
+        "./coursera_logo.png": 130,
+        "./data_science.svg": 131,
+        "./deeplearning_ai_logo.png": 132,
+        "./delhivery_logo.png": 133,
+        "./developerActivity.svg": 134,
+        "./dsc_logo.png": 135,
+        "./education.svg": 136,
+        "./eisai.jpg": 137,
+        "./experience.svg": 138,
+        "./f1.png": 139,
+        "./feelingProud.svg": 140,
+        "./freecopy_logo.png": 141,
+        "./fullstack.svg": 142,
+        "./gcp_logo.png": 143,
+        "./github_logo.png": 144,
+        "./googleAssistant.jpg": 145,
+        "./googleAssistant.svg": 146,
+        "./google_logo.png": 147,
+        "./grade2pdf.pdf": 148,
+        "./grade2pdf.png": 149,
+        "./ibm_logo.png": 150,
+        "./iiitk_logo.png": 151,
+        "./intel_logo.jpg": 152,
+        "./ipdefine.avif": 153,
+        "./iu_logo.png": 154,
+        "./jsFramework.svg": 155,
+        "./kaggle.svg": 156,
+        "./kateikyousi.svg": 157,
+        "./legato_logo.png": 158,
+        "./manOnTable.svg": 159,
+        "./me.png": 160,
+        "./microsoft_logo.png": 161,
+        "./mozilla_logo.png": 162,
+        "./muffito_logo.png": 163,
+        "./nextuLogo.jpg": 164,
+        "./nishika.jpg": 165,
+        "./no-image.png": 166,
+        "./nptel_logo.png": 167,
+        "./portfolio.gif": 168,
+        "./programmer.svg": 169,
+        "./projects_image.svg": 170,
+        "./pwa.png": 171,
+        "./saayaHealthLogo.png": 172,
+        "./signate.png": 173,
+        "./signate.svg": 174,
+        "./stanford_logo.png": 175,
+        "./talksCardBack.svg": 176,
+        "./talksCardBackAlt.svg": 177,
+        "./tiktok_logo.png": 178,
+        "./toiec.png": 179,
+        "./tokyotech.jpeg": 180,
+        "./toudai.jpg": 181,
+        "./ui_ux_design.svg": 182,
+        "./wave.jpeg": 183,
       };
       function l(e) {
         var t = n(e);
@@ -141,7 +142,7 @@
     ,
     ,
     function (e, t, a) {
-      e.exports = a(202);
+      e.exports = a(203);
     },
     ,
     ,
@@ -195,6 +196,9 @@
     },
     function (e, t, a) {
       e.exports = a.p + "static/media/blogs_image.058eca4c.svg";
+    },
+    function (e, t, a) {
+      e.exports = a.p + "static/media/center_cropped.4dff9c57.png";
     },
     function (e, t, a) {
       e.exports = a.p + "static/media/cloud_infrastructure.cacbc42b.svg";
@@ -405,8 +409,8 @@
         l = a.n(r),
         n = a(16),
         c = a.n(n),
-        i = a(216),
-        A = a(203),
+        i = a(217),
+        A = a(204),
         s = a(32),
         o = a(83),
         m = (a(91), a(92), a(2)),
@@ -1516,8 +1520,8 @@
         );
       }
       a(66), a(111);
-      var $ = a(215),
-        ee = a(217),
+      var $ = a(216),
+        ee = a(218),
         te = (function (e) {
           Object(f.a)(a, e);
           var t = Object(d.a)(a);
@@ -4575,8 +4579,8 @@
           );
         })(r.Component),
         Ee =
-          (a(183),
-          a(184),
+          (a(184),
+          a(185),
           (function (e) {
             Object(f.a)(r, e);
             var t = Object(d.a)(r);
@@ -4712,8 +4716,8 @@
           );
         })(r.Component),
         ue =
-          (a(185),
-          a(186),
+          (a(186),
+          a(187),
           (function (e) {
             Object(f.a)(r, e);
             var t = Object(d.a)(r);
@@ -4849,7 +4853,7 @@
           );
         })(r.Component),
         xe =
-          (a(187),
+          (a(188),
           (function (e) {
             Object(f.a)(a, e);
             var t = Object(d.a)(a);
@@ -5241,7 +5245,7 @@
           );
         })(r.Component),
         Me =
-          (a(188),
+          (a(189),
           (function (e) {
             Object(f.a)(a, e);
             var t = Object(d.a)(a);
@@ -5315,7 +5319,7 @@
             );
           })(r.Component)),
         ve =
-          (a(189),
+          (a(190),
           (function (e) {
             Object(f.a)(r, e);
             var t = Object(d.a)(r);
@@ -5416,8 +5420,8 @@
               r
             );
           })(r.Component)),
-        we = (a(190), a(218)),
-        ke = a(214),
+        we = (a(191), a(219)),
+        ke = a(215),
         Ze = (function (e) {
           Object(f.a)(a, e);
           var t = Object(d.a)(a);
@@ -5484,7 +5488,7 @@
           );
         })(r.Component),
         Ne =
-          (a(191),
+          (a(192),
           (function (e) {
             Object(f.a)(a, e);
             var t = Object(d.a)(a);
@@ -6586,10 +6590,10 @@
           );
         })(r.Component),
         Ie =
-          (a(192),
+          (a(193),
           {
             title: "Contact Me",
-            profile_image_path: "me.png",
+            profile_image_path: "center_cropped.png",
             description: "",
           }),
         Be = (function (e) {
@@ -6737,7 +6741,7 @@
           );
         })(r.Component),
         Se =
-          (a(193),
+          (a(194),
           (function (e) {
             Object(f.a)(a, e);
             var t = Object(d.a)(a);
@@ -6793,7 +6797,7 @@
               a
             );
           })(r.Component));
-      a(194);
+      a(195);
       function Ve(e) {
         var t = e.repo,
           a = e.theme;
@@ -6866,7 +6870,7 @@
           )
         );
       }
-      a(195);
+      a(196);
       function He(e) {
         var t = e.pub,
           a = e.theme;
@@ -6924,7 +6928,7 @@
       }
       var Oe = a(81),
         Qe =
-          (a(196),
+          (a(197),
           (function (e) {
             Object(f.a)(a, e);
             var t = Object(d.a)(a);
@@ -7623,8 +7627,8 @@
             );
           })(r.Component)),
         Fe =
-          (a(197),
-          a(198),
+          (a(198),
+          a(199),
           (function (e) {
             Object(f.a)(r, e);
             var t = Object(d.a)(r);
@@ -7885,7 +7889,7 @@
           );
         })(r.Component),
         qe =
-          (a(199),
+          (a(200),
           (function (e) {
             Object(f.a)(a, e);
             var t = Object(d.a)(a);
@@ -8171,7 +8175,7 @@
             /^127(?:\.(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)){3}$/
           )
       );
-      a(200);
+      a(201);
       var Xe = new o.a();
       c.a.render(
         l.a.createElement(
@@ -8189,4 +8193,4 @@
   ]),
   [[86, 1, 2]],
 ]);
-//# sourceMappingURL=main.ef7c2517.chunk.js.map
+//# sourceMappingURL=main.7df84b40.chunk.js.map
