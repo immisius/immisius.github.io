@@ -26,7 +26,7 @@ const greeting = {
     "データサイエンスの力を用いて世界をよりよくすることに興味があります。人工知能、特にニューラルネットワークを用いた問題解決に注力しています。計算機との出会いは中学校の時に熱中したオンラインゲームです。E-sportsという言葉もなく、ゲーム配信の価値が模索されている中、ローエンドな計算機でオンラインゲーム、またそこでの仲間とのコミュニケーションを楽しみました。その経験から東京工業大学情報理工学院に入学し、計算機の理解を深めました。機械の「知能」を機械の「言葉」に感じ、自然言語処理を専門とする研究室に所属しています。言葉を理解して人の手伝いができるような機械に魅力を感じています。",
   resumeLink:
     "https://drive.google.com/file/d/1k0SYUjUUk-VWZHNg92YVFdFLeiZua1qz/view?usp=sharing",
-  portfolio_repository: "https://github.com/immisius/masterPortfolio",
+  portfolio_repository: "https://github.com/immisius",
   githubProfile: "https://github.com/immisius",
 };
 
