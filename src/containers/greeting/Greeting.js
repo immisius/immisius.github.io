@@ -36,10 +36,30 @@ export default function Greeting(props) {
                   className="portfolio-repo-btn"
                 />
               </div>
-              {/* <div className="button-greeting-div">
-              <Button text="Contact me" href="#contact" />
-              <Button text="See my resume" newTab={true} href={greeting.resumeLink} />
-            </div> */}
+              <div className="portfolio-repo-btn-div">
+                <Button
+                  text="📚 Education"
+                  href={"https://immisius.github.io/#/education"}
+                  theme={theme}
+                  className="portfolio-repo-btn"
+                />
+              </div>
+              <div className="portfolio-repo-btn-div">
+                <Button
+                  text="👤 Experiences"
+                  href={"https://immisius.github.io/#/experience"}
+                  theme={theme}
+                  className="portfolio-repo-btn"
+                />
+              </div>
+              <div className="portfolio-repo-btn-div">
+                <Button
+                  text="😁 Projects"
+                  href={"https://immisius.github.io/#/projects"}
+                  theme={theme}
+                  className="portfolio-repo-btn"
+                />
+              </div>
             </div>
           </div>
           <div className="greeting-image-div">
