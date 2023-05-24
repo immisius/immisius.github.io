@@ -920,14 +920,16 @@ const projects = {
 
 const publications = {
   data: [
-    // {
-    //   id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-    //   name: "Artificial Intelligence Paper",
-    //   createdAt: "2020-03-06T16:26:54Z",
-    //   description: "Paper Written on Artificial Intelligence published in xyz ",
-    //   url:
-    //     "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    // },
+    {
+      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      name: "画像キャプション生成におけるJPEG圧縮への頑健性の改善",
+      createdAt:
+        "言語処理学会第29回年次大会 (NLP2023), P2-2, pp. 419–424, 2023年3月",
+      description:
+        "本稿は画像キャプション生成タスクにおけるJPEG圧縮の影響を分析する。まず、高い圧縮率が適用された画像に対して、通常の画像キャプション生成モデルはその性能を維持できず、生成されるキャプションの品質が落ちてしまうことを示す。そこで、画像エンコーダと画像キャプション生成の二つのモデルの学習データにJPEG画像を追加する手法を提案する。実験結果から、画像キャプション生成モデルの学習にJPEG 画像を追加しなくても、画像エンコーダの学習にJPEG画像を追加するだけで、JPEG圧縮に対して頑健な画像キャプション生成モデルを構築できることが分かった。",
+      url:
+        "https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/P2-2.pdf",
+    },
     // {
     //   id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzi=",
     //   name: "Artificial Intelligence Paper",
