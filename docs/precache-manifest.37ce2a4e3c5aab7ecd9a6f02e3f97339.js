@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    revision: "535b69257c592d705f0b7faac0cc3079",
+    revision: "93fb5fdead30ca85c4f4764de47eb9c0",
     url: "/index.html",
   },
   {
-    revision: "d9b3a14545e7904b2b45",
+    revision: "5aff80728bdd2f49c5d6",
     url: "/static/css/main.57f46251.chunk.css",
   },
   {
-    revision: "948926cf5e51215707e7",
-    url: "/static/js/2.efcf3099.chunk.js",
+    revision: "8647598923e0ac828aa3",
+    url: "/static/js/2.e437357e.chunk.js",
   },
   {
-    revision: "d9b3a14545e7904b2b45",
-    url: "/static/js/main.05f4c033.chunk.js",
+    revision: "5aff80728bdd2f49c5d6",
+    url: "/static/js/main.8cde5707.chunk.js",
   },
   {
     revision: "6138eaf4a6c67cbf898e",
@@ -226,6 +226,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     revision: "571a8584e69ecfbe326c8b8385fbbf54",
     url: "/static/media/iiitk_logo.571a8584.png",
+  },
+  {
+    revision: "5784f3fd5825c765a02329d1e2a21b73",
+    url: "/static/media/inprocess.5784f3fd.png",
   },
   {
     revision: "29152cf756a1facead5393c32e373371",

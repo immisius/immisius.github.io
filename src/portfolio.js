@@ -807,6 +807,31 @@ const projects = {
       //   alt_name: "Signate",
       color_code: "#0e6ba8",
     },
+    {
+      title: "Youtube Summarizer",
+      subtitle:
+        "Youtube動画を字幕を使って要約するWeb App イメージ画像のみ準備中",
+      logo_path: "inprocess.png",
+      certificate_link: "https://github.com/immisius/SUtube",
+      color_code: "#0e6ba8",
+    },
+    {
+      title: "Paper Summarizer",
+      subtitle: "論文を要約するWeb App イメージ画像のみ準備中",
+      logo_path: "inprocess.png",
+      certificate_link: "https://github.com/immisius/EnglishWordbook",
+      //   alt_name: "Signate",
+      color_code: "#0e6ba8",
+    },
+    {
+      title: "LINEGPT",
+      subtitle:
+        "LINEのトーク履歴を使って自分を学習!\n自分を複製しよう! コード準備中",
+      logo_path: "inprocess.png",
+      certificate_link: "https://github.com/immisius/LINEGPT2",
+      //   alt_name: "Signate",
+      color_code: "#0e6ba8",
+    },
     // {
     //   title: "Nishika",
     //   //   subtitle: "- TOEIC",

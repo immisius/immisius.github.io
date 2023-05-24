@@ -38,38 +38,39 @@
         "./grade2pdf.png": 150,
         "./ibm_logo.png": 151,
         "./iiitk_logo.png": 152,
-        "./intel_logo.jpg": 153,
-        "./ipdefine.avif": 154,
-        "./iu_logo.png": 155,
-        "./jsFramework.svg": 156,
-        "./kaggle.svg": 157,
-        "./kateikyousi.svg": 158,
-        "./legato_logo.png": 159,
-        "./manOnTable.svg": 160,
-        "./me.png": 161,
-        "./microsoft_logo.png": 162,
-        "./mozilla_logo.png": 163,
-        "./muffito_logo.png": 164,
-        "./nextuLogo.jpg": 165,
-        "./nishika.jpg": 166,
-        "./no-image.png": 167,
-        "./nptel_logo.png": 168,
-        "./portfolio.gif": 169,
-        "./programmer.svg": 170,
-        "./projects_image.svg": 171,
-        "./pwa.png": 172,
-        "./saayaHealthLogo.png": 173,
-        "./signate.png": 174,
-        "./signate.svg": 175,
-        "./stanford_logo.png": 176,
-        "./talksCardBack.svg": 177,
-        "./talksCardBackAlt.svg": 178,
-        "./tiktok_logo.png": 179,
-        "./toiec.png": 180,
-        "./tokyotech.jpeg": 181,
-        "./toudai.jpg": 182,
-        "./ui_ux_design.svg": 183,
-        "./wave.jpeg": 184,
+        "./inprocess.png": 153,
+        "./intel_logo.jpg": 154,
+        "./ipdefine.avif": 155,
+        "./iu_logo.png": 156,
+        "./jsFramework.svg": 157,
+        "./kaggle.svg": 158,
+        "./kateikyousi.svg": 159,
+        "./legato_logo.png": 160,
+        "./manOnTable.svg": 161,
+        "./me.png": 162,
+        "./microsoft_logo.png": 163,
+        "./mozilla_logo.png": 164,
+        "./muffito_logo.png": 165,
+        "./nextuLogo.jpg": 166,
+        "./nishika.jpg": 167,
+        "./no-image.png": 168,
+        "./nptel_logo.png": 169,
+        "./portfolio.gif": 170,
+        "./programmer.svg": 171,
+        "./projects_image.svg": 172,
+        "./pwa.png": 173,
+        "./saayaHealthLogo.png": 174,
+        "./signate.png": 175,
+        "./signate.svg": 176,
+        "./stanford_logo.png": 177,
+        "./talksCardBack.svg": 178,
+        "./talksCardBackAlt.svg": 179,
+        "./tiktok_logo.png": 180,
+        "./toiec.png": 181,
+        "./tokyotech.jpeg": 182,
+        "./toudai.jpg": 183,
+        "./ui_ux_design.svg": 184,
+        "./wave.jpeg": 185,
       };
       function l(e) {
         var t = n(e);
@@ -143,7 +144,7 @@
     ,
     ,
     function (e, t, a) {
-      e.exports = a(204);
+      e.exports = a(205);
     },
     ,
     ,
@@ -285,6 +286,9 @@
       e.exports = a.p + "static/media/iiitk_logo.571a8584.png";
     },
     function (e, t, a) {
+      e.exports = a.p + "static/media/inprocess.5784f3fd.png";
+    },
+    function (e, t, a) {
       e.exports = a.p + "static/media/intel_logo.29152cf7.jpg";
     },
     function (e, t, a) {
@@ -413,8 +417,8 @@
         l = a.n(r),
         n = a(16),
         c = a.n(n),
-        i = a(218),
-        A = a(205),
+        i = a(219),
+        A = a(206),
         s = a(32),
         o = a(83),
         m = (a(91), a(92), a(2)),
@@ -694,8 +698,8 @@
             },
           ],
         },
-        V = "Projects",
-        S =
+        S = "Projects",
+        V =
           "\u6a5f\u68b0\u5b66\u7fd2\u3092\u7528\u3044\u305f\u30a2\u30d7\u30ea\u958b\u767a\u3092\u884c\u3063\u3066\u3044\u307e\u3059\u3002",
         H = "Publications",
         O =
@@ -725,6 +729,30 @@
                 "CSV\u51fa\u529b\u3067\u304d\u308b\u82f1\u5358\u8a9e\u5e33",
               logo_path: "EnglishWordbook.png",
               certificate_link: "https://github.com/immisius/EnglishWordbook",
+              color_code: "#0e6ba8",
+            },
+            {
+              title: "Youtube Summarizer",
+              subtitle:
+                "Youtube\u52d5\u753b\u3092\u5b57\u5e55\u3092\u4f7f\u3063\u3066\u8981\u7d04\u3059\u308bWeb App \u30a4\u30e1\u30fc\u30b8\u753b\u50cf\u306e\u307f\u6e96\u5099\u4e2d",
+              logo_path: "inprocess.png",
+              certificate_link: "https://github.com/immisius/SUtube",
+              color_code: "#0e6ba8",
+            },
+            {
+              title: "Paper Summarizer",
+              subtitle:
+                "\u8ad6\u6587\u3092\u8981\u7d04\u3059\u308bWeb App \u30a4\u30e1\u30fc\u30b8\u753b\u50cf\u306e\u307f\u6e96\u5099\u4e2d",
+              logo_path: "inprocess.png",
+              certificate_link: "https://github.com/immisius/EnglishWordbook",
+              color_code: "#0e6ba8",
+            },
+            {
+              title: "LINEGPT",
+              subtitle:
+                "LINE\u306e\u30c8\u30fc\u30af\u5c65\u6b74\u3092\u4f7f\u3063\u3066\u81ea\u5206\u3092\u5b66\u7fd2!\n\u81ea\u5206\u3092\u8907\u88fd\u3057\u3088\u3046! \u30b3\u30fc\u30c9\u6e96\u5099\u4e2d",
+              logo_path: "inprocess.png",
+              certificate_link: "https://github.com/immisius/LINEGPT2",
               color_code: "#0e6ba8",
             },
           ],
@@ -1561,8 +1589,8 @@
         );
       }
       a(66), a(111);
-      var $ = a(217),
-        ee = a(219),
+      var $ = a(218),
+        ee = a(220),
         te = (function (e) {
           Object(f.a)(a, e);
           var t = Object(d.a)(a);
@@ -4620,8 +4648,8 @@
           );
         })(r.Component),
         Ee =
-          (a(185),
-          a(186),
+          (a(186),
+          a(187),
           (function (e) {
             Object(f.a)(r, e);
             var t = Object(d.a)(r);
@@ -4757,8 +4785,8 @@
           );
         })(r.Component),
         ue =
-          (a(187),
-          a(188),
+          (a(188),
+          a(189),
           (function (e) {
             Object(f.a)(r, e);
             var t = Object(d.a)(r);
@@ -4894,7 +4922,7 @@
           );
         })(r.Component),
         be =
-          (a(189),
+          (a(190),
           (function (e) {
             Object(f.a)(a, e);
             var t = Object(d.a)(a);
@@ -5286,7 +5314,7 @@
           );
         })(r.Component),
         Me =
-          (a(190),
+          (a(191),
           (function (e) {
             Object(f.a)(a, e);
             var t = Object(d.a)(a);
@@ -5360,7 +5388,7 @@
             );
           })(r.Component)),
         ve =
-          (a(191),
+          (a(192),
           (function (e) {
             Object(f.a)(r, e);
             var t = Object(d.a)(r);
@@ -5461,8 +5489,8 @@
               r
             );
           })(r.Component)),
-        we = (a(192), a(220)),
-        ke = a(216),
+        we = (a(193), a(221)),
+        ke = a(217),
         Ze = (function (e) {
           Object(f.a)(a, e);
           var t = Object(d.a)(a);
@@ -5529,7 +5557,7 @@
           );
         })(r.Component),
         Ne =
-          (a(193),
+          (a(194),
           (function (e) {
             Object(f.a)(a, e);
             var t = Object(d.a)(a);
@@ -6631,7 +6659,7 @@
           );
         })(r.Component),
         Ie =
-          (a(194),
+          (a(195),
           {
             title: "Contact Me",
             profile_image_path: "center_cropped.png",
@@ -6781,8 +6809,8 @@
             r
           );
         })(r.Component),
-        Ve =
-          (a(195),
+        Se =
+          (a(196),
           (function (e) {
             Object(f.a)(a, e);
             var t = Object(d.a)(a);
@@ -6838,8 +6866,8 @@
               a
             );
           })(r.Component));
-      a(196);
-      function Se(e) {
+      a(197);
+      function Ve(e) {
         var t = e.repo,
           a = e.theme;
         return l.a.createElement(
@@ -6902,7 +6930,7 @@
                   "Created on ",
                   t.createdAt.split("T")[0]
                 ),
-                l.a.createElement(Ve, {
+                l.a.createElement(Se, {
                   className: "repo-languages",
                   logos: t.languages,
                 })
@@ -6911,7 +6939,7 @@
           )
         );
       }
-      a(197);
+      a(198);
       function He(e) {
         var t = e.pub,
           a = e.theme;
@@ -6969,7 +6997,7 @@
       }
       var Oe = a(81),
         Qe =
-          (a(198),
+          (a(199),
           (function (e) {
             Object(f.a)(a, e);
             var t = Object(d.a)(a);
@@ -7668,8 +7696,8 @@
             );
           })(r.Component)),
         Fe =
-          (a(199),
-          a(200),
+          (a(200),
+          a(201),
           (function (e) {
             Object(f.a)(r, e);
             var t = Object(d.a)(r);
@@ -7843,7 +7871,7 @@
                                 className: "projects-heading-text",
                                 style: { color: e.text },
                               },
-                              V
+                              S
                             ),
                             l.a.createElement(
                               "p",
@@ -7852,7 +7880,7 @@
                                   "projects-header-detail-text subTitle",
                                 style: { color: e.secondaryText },
                               },
-                              S
+                              V
                             )
                           )
                         )
@@ -7862,7 +7890,7 @@
                       "div",
                       { className: "repo-cards-div-main" },
                       Oe.data.map(function (t) {
-                        return l.a.createElement(Se, { repo: t, theme: e });
+                        return l.a.createElement(Ve, { repo: t, theme: e });
                       })
                     ),
                     F.data.length > 0
@@ -7930,7 +7958,7 @@
           );
         })(r.Component),
         qe =
-          (a(201),
+          (a(202),
           (function (e) {
             Object(f.a)(a, e);
             var t = Object(d.a)(a);
@@ -8216,7 +8244,7 @@
             /^127(?:\.(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)){3}$/
           )
       );
-      a(202);
+      a(203);
       var Xe = new o.a();
       c.a.render(
         l.a.createElement(
@@ -8234,4 +8262,4 @@
   ]),
   [[86, 1, 2]],
 ]);
-//# sourceMappingURL=main.05f4c033.chunk.js.map
+//# sourceMappingURL=main.8cde5707.chunk.js.map

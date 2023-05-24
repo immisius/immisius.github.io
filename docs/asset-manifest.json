@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.57f46251.chunk.css",
-    "main.js": "/static/js/main.05f4c033.chunk.js",
-    "main.js.map": "/static/js/main.05f4c033.chunk.js.map",
+    "main.js": "/static/js/main.8cde5707.chunk.js",
+    "main.js.map": "/static/js/main.8cde5707.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.0403a33d.js",
     "runtime-main.js.map": "/static/js/runtime-main.0403a33d.js.map",
-    "static/js/2.efcf3099.chunk.js": "/static/js/2.efcf3099.chunk.js",
-    "static/js/2.efcf3099.chunk.js.map": "/static/js/2.efcf3099.chunk.js.map",
+    "static/js/2.e437357e.chunk.js": "/static/js/2.e437357e.chunk.js",
+    "static/js/2.e437357e.chunk.js.map": "/static/js/2.e437357e.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.1d0c258f03c32b8fe3df64a1bf3c71fc.js": "/precache-manifest.1d0c258f03c32b8fe3df64a1bf3c71fc.js",
+    "precache-manifest.37ce2a4e3c5aab7ecd9a6f02e3f97339.js": "/precache-manifest.37ce2a4e3c5aab7ecd9a6f02e3f97339.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.57f46251.chunk.css.map": "/static/css/main.57f46251.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
@@ -42,6 +42,7 @@
     "static/media/grade2pdf.pdf": "/static/media/grade2pdf.d311045f.pdf",
     "static/media/ibm_logo.png": "/static/media/ibm_logo.d3fccbe1.png",
     "static/media/iiitk_logo.png": "/static/media/iiitk_logo.571a8584.png",
+    "static/media/inprocess.png": "/static/media/inprocess.5784f3fd.png",
     "static/media/intel_logo.jpg": "/static/media/intel_logo.29152cf7.jpg",
     "static/media/ipdefine.avif": "/static/media/ipdefine.2b409e1c.avif",
     "static/media/iu_logo.png": "/static/media/iu_logo.60ed0bd3.png",
@@ -70,8 +71,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.0403a33d.js",
-    "static/js/2.efcf3099.chunk.js",
+    "static/js/2.e437357e.chunk.js",
     "static/css/main.57f46251.chunk.css",
-    "static/js/main.05f4c033.chunk.js"
+    "static/js/main.8cde5707.chunk.js"
   ]
 }
